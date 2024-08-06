@@ -69,15 +69,6 @@ The visualizations in PowerBI are divided into three sections:
   - Filters for selecting genre and year range.
   - Stacked bar chart showing the dominance of platforms over the years.
   - Tree map representing the market share of publishers.
-
-## Contributing
-
-If you have suggestions to improve the analysis or wish to contribute to the project, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Explore the analysis and discover trends in the video game market!
